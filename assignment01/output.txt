@@ -1,0 +1,51 @@
+
+TESTS FOR Person.java:
+Owner:	Kofi	Agyapong	123445678
+Date and place of birth:	Date and place of birth: 2000-08-04, Bronx, NY, USA
+100 Casals Place
+Apt 22H
+Bronx, NY 10475
+
+TESTS FOR SimpleDate.java:
+true
+
+TESTS FOR StreetUSAddress.java:
+4400 Vestal Pkwy E
+Binghamton, NY 13902
+100 Casals Place
+Apt 22H
+Bronx, NY 10475
+
+TESTS FOR Computer.java:
+Microsoft, super fast cpu, 6GB Memory, 1.1TB Solid State Drive, Price: $800.00 
+Sony, newly renovated cpu, 6GB Memory, 800GB Hard Drive, Price: $750.00 
+Apple, the all new Amber Lake Cpu, 8GB Memory, 1.2TB Solid State Drive, Price: $1000.00 
+Toshiba, Japan's all new cpu, 6GB Memory, 750GB Hard Drive, Price: $500.00 
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Owner:	Kevin	Agyapong	876554321
+Date and place of birth:	Date and place of birth: 2000-08-04, Bronx, NY, USA
+100 Casals Place
+Apt 22H
+Bronx, NY 10475
+Computers: []
+Computer List, Owner: Owner:	Kevin	Agyapong	876554321
+Date and place of birth:	Date and place of birth: 2000-08-04, Bronx, NY, USA
+100 Casals Place
+Apt 22H
+Bronx, NY 10475
+Computers: []
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-08-04, Los Angeles, California, USA
+Date and place of birth: 2000-08-04, New York, New York, USA
+Date and place of birth: 1996-08-04, Boston, Massachusetts, USA
+Date and place of birth: 1980-07-16, Accra, Ghana
+Date and place of birth: 2000-08-04, Lagos, Nigeria
+true
+true
+false
+false
+true
+false
+true
